@@ -1,0 +1,8 @@
+# Lista branca: ignora tudo e só deixa entrar o que é explicitamente permitido.
+*
+!.gitignore
+!README.md
+!masculimente/
+!masculimente/*/
+!masculimente/*/*/
+!masculimente/*/*/[0-9][0-9].png
